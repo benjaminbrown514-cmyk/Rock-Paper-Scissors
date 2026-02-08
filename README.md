@@ -7,5 +7,6 @@
   ## Instatllation
   First open the files and then open in the files in a other browser.
   ##Mockup
-  
-  
+  These are my urls of my code. 
+  file:///Users/benjaminbrown514gmail.com/Downloads/MOV.HEIC 
+  file:///Users/benjaminbrown514gmail.com/Downloads/JPEG.HEIC
