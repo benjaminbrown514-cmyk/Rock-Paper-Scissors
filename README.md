@@ -6,7 +6,9 @@
 - I learned more about a certain code.
   ## Instatllation
   First open the files and then open in the files in a other browser.
-  ##Mockup
-  These are my urls of my code. 
-  file:///Users/benjaminbrown514gmail.com/Downloads/MOV.HEIC 
-  file:///Users/benjaminbrown514gmail.com/Downloads/JPEG.HEIC
+  #Sections
+  (https://github.com/benjaminbrown514-cmyk/Rock-Paper-Scissors)
+  (https://benjaminbrown514-cmyk.github.io/Rock-Paper-Scissors/) 
+   ##Mockup
+  ![IMG_0031](https://github.com/user-attachments/assets/c3989119-8889-4b94-8394-9b95cc5a48ea)
+
