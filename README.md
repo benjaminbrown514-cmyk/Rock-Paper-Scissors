@@ -46,9 +46,11 @@ Scissors beats Paper
 
 Paper beats Rock
 
-The computer's choice is generated using Math.random() to ensure a fair and unpredictable experience.  #Sections
+The computer's choice is generated using Math.random() to ensure a fair and unpredictable experience.  
+#Sections
   (https://github.com/benjaminbrown514-cmyk/Rock-Paper-Scissors)
   (https://benjaminbrown514-cmyk.github.io/Rock-Paper-Scissors/) 
+  
    ##Mockup
   ![IMG_0031](https://github.com/user-attachments/assets/c3989119-8889-4b94-8394-9b95cc5a48ea)
 
